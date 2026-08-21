@@ -23,7 +23,7 @@ you can delete those blocks from `opencode.json` if you prefer a shorter list.
 
 ## Step 2 — run it
 
-    cd C:\Users\Administrator\Videos\opencode
+    cd C:\Users\Administrator\Videos\Girsa
     opencode
 
 Inside OpenCode, `/models` opens the model picker to switch providers mid-session.
