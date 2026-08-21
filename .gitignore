@@ -1,0 +1,6 @@
+# Nothing in this repo is secret: opencode.json ships with placeholder keys only.
+# If you paste real keys into it, untrack it first:
+#   git rm --cached opencode.json && echo opencode.json >> .gitignore
+
+.DS_Store
+Thumbs.db
